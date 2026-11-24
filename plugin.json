@@ -1,0 +1,14 @@
+{
+  "name": "Right Stick Navigation",
+  "author": "Jed Whitaker",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": [
+      "accessibility",
+      "navigation"
+    ],
+    "description": "Navigate the Steam Deck interface with the right stick.",
+    "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/decky-loader"
+  }
+}
